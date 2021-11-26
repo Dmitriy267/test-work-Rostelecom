@@ -1,0 +1,21 @@
+div{
+    box-sizing: border-box;
+}
+.my_result{
+ border:2px solid black;
+    width: 80%;
+    background-color: black
+}
+p{font-size: 18px}
+button{
+    border-radius: 5px;
+}
+.btn{
+    background-color: rgb(245, 148, 78);
+}
+.id_btn{
+    background-color: rgb(66, 237, 95);
+}
+.answer-fetch{
+    color:white
+}
